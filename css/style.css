@@ -277,6 +277,7 @@ body{
 @media screen and (max-width:900px) {
     .footer-main{
         grid-template-columns: 2fr 1fr;
+        font-size:14px;
     }
 
     .footer-main-contacto{
